@@ -9,3 +9,4 @@ day 11 of python course.
 ## The cards in the list have equal probability of being drawn.
 ## Cards are not removed from the deck as they are drawn.
 ## The computer is the dealer.
+![image](https://github.com/samyukthdraj/blackjack/assets/75676432/3703e374-a1c0-43e2-b73f-d3865875623c)
